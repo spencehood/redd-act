@@ -1,3 +1,3 @@
-# red-act
+# redd-act
 Reddit API app, UI generated with React js
 
